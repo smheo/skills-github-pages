@@ -3,4 +3,4 @@ title: Welcome to my page!
 ---
 
 
-Hello there!
+body: Hello there!
